@@ -1,7 +1,15 @@
 body {
     font-family: sans-serif;
     background-color: lightgrey;
-    margin-top: 75px;
+    margin-top: 75px;    position: relative;
+    min-height: 800px;
+    height: auto !important;
+    height: 750px;
+    background-color: #fff;
+    color: #5f6d80;
+    padding-bottom: 20px;
+    min-height: 945px;  
+    font-sipadding-top: 15px;
 }
 
 .center {
@@ -9,7 +17,8 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+  
+
 }
 
 .bold {
